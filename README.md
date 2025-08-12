@@ -59,3 +59,13 @@ The project is aimed at beginners who want to learn how to build network applica
    - Right-click Client.java → *Run 'Client.main()'*  
    - Repeat in multiple tabs or windows to simulate multiple users.
 6. Start chatting — messages from one client will appear on all others.
+
+## Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5ca5b9e6-4c1c-4775-a189-e0a0ee04595e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a9012939-45c0-4def-97a8-579881896483" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4eb7091f-5f7b-49fd-9ac3-6b8f6c0150f0" />
+
+https://github.com/user-attachments/assets/86cafd33-3d72-4b5c-b05d-96ed2ba4cd62
